@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Skeleton\\": "src/",
+            "Skeleton\\Test\\": "test/"
+        }
+    }
+}
